@@ -1,0 +1,2 @@
+s="Smital"
+print(s)
